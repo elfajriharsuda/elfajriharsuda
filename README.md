@@ -1,4 +1,4 @@
-## elfajrharsuda 💻🇮🇩
+## elfajriharsuda 💻🇮🇩
 <strong>Front-end Developer</strong>
 
 
