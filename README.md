@@ -1,8 +1,14 @@
-# elfajrharsuda 💻🇮🇩
+## elfajrharsuda 💻🇮🇩
+<strong>Front-end Developer</strong>
+
+
+### Connect with me 📫
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/elfajriharsuda)](https://www.linkedin.com/elfajriharsuda)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:elfajri.harsuda@gmail.com)](mailto:elfajri.harsuda@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-circle&logo=instagram&logoColor=white&link=https://www.instagram.com/elfajriharsuda)](https://www.instagram.com/elfajriharsuda)
+[![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=flat-circle&logo=youtube&logoColor=white&link=https://youtube.com/channel/UCIwu4jGs4CytxqCDLyX2z4A)](https://youtube.com/channel/UCIwu4jGs4CytxqCDLyX2z4A)
 
 <!--
-**elfajriharsuda/elfajriharsuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
