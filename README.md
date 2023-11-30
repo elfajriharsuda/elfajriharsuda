@@ -22,6 +22,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+### Roadmap Progress
+https://api.roadmap.sh/v1-badge/wide/655db70968ca60261363e3ef?variant=dark&roadmaps=frontend%2Cjavascript%2Creact
+
 ### Connect with me 📫
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/elfajriharsuda)](https://www.linkedin.com/elfajriharsuda)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:elfajri.harsuda@gmail.com)](mailto:elfajri.harsuda@gmail.com)
