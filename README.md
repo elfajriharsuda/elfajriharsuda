@@ -1,7 +1,7 @@
-# elfajriharsuda 💻🇮🇩
+# elfajriharsuda 💻🧑‍💻🇮🇩
 <strong>Front-end Developer</strong>
 
-### Language and tools 🛠
+### Language and tools 🛠🧰⚙️
 <div>
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> -->
 	<a href="https://react.dev/" ><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/></a>
@@ -22,10 +22,10 @@
 	<a href="https://github.com/" ><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></a>
 </div>
 
-### Roadmap Progress
+### Roadmap Progress 🔥📈🎯
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/655db70968ca60261363e3ef?variant=dark&roadmaps=frontend%2Cjavascript%2Creact" alt="roadmap.sh"/></a>
 
-### Connect with me 📫
+### Connect with me 📫📞📩
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/elfajriharsuda)](https://www.linkedin.com/elfajriharsuda)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:elfajri.harsuda@gmail.com)](mailto:elfajri.harsuda@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-circle&logo=instagram&logoColor=white&link=https://www.instagram.com/elfajriharsuda)](https://www.instagram.com/elfajriharsuda)
