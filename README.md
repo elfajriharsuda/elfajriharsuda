@@ -30,7 +30,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:elfajri.harsuda@gmail.com)](mailto:elfajri.harsuda@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-circle&logo=instagram&logoColor=white&link=https://www.instagram.com/elfajriharsuda)](https://www.instagram.com/elfajriharsuda)
 [![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=flat-circle&logo=youtube&logoColor=white&link=https://youtube.com/channel/UCIwu4jGs4CytxqCDLyX2z4A)](https://youtube.com/channel/UCIwu4jGs4CytxqCDLyX2z4A)
-![CodeSignal](https://img.shields.io/badge/-signal?style=plastic&logo=codesignal&logoColor=%23fff&label=Code%20Signal&labelColor=%231062fb&color=%231062fb&cacheSeconds=https%3A%2F%2Fapp.codesignal.com%2F&link=https%3A%2F%2Fapp.codesignal.com%2Fprofile%2Felfajriharsuda)
+[![CodeSignal](https://img.shields.io/badge/-CodeSignal-231062FB?style=flat-circle&logo=codesignal&logoColor=%23fff&link=https://app.codesignal.com/profile/elfajriharsuda)](https://app.codesignal.com/profile/elfajriharsuda)
 
 
 <!--
