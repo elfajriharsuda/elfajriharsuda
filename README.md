@@ -1,5 +1,5 @@
 # elfajriharsuda 💻🧑‍💻🇮🇩
-<strong>Web Developer | Fullstack Develper</strong>
+<strong>Web Developer | Fullstack </strong>
 
 ### Language and tools 🛠🧰⚙️
 <div>
