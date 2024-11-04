@@ -3,15 +3,15 @@
 
 ### Language and tools 🛠🧰⚙️
 <div>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
+	<a href="https://www.javascript.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>
 	<a href="https://react.dev/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/></a>
 	<a href="https://nextjs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs"width="40" height="40"/></a>
-	<a href="https://tailwindcss.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/></a>
-	<a href="https://getbootstrap.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap"width="40" height="40"/></a>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-	<a href="https://www.javascript.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>
-  	<a href="https://firebase.google.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/></a>
 	<a href="https://www.gatsbyjs.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/></a>
+	<a href="https://tailwindcss.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/></a>
+	<a href="https://getbootstrap.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap"width="40" height="40"/></a>	
+  	<a href="https://firebase.google.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/></a>
 	<a href="https://www.npmjs.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/></a>
 	<a href="https://nodejs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/></a>
 	<a href="https://github.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></a>
