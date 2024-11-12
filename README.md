@@ -1,5 +1,5 @@
 # elfajriharsuda 💻🧑‍💻🇮🇩
-<strong>Web Developer | Fullstack | Blockchain | AI </strong>
+<strong>Web Developer | Fullstack | web3 | Blockchain | AI </strong>
 
 ### Language and tools 🛠🧰⚙️
 <div>
